@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![]("https://github.com/jackho2022/flutter-cart-app/blob/main/shopping_cart.gif" width="360")
+![shopping cart] (https://github.com/jackho2022/flutter-cart-app/blob/main/shopping_cart.gif | width="360")
